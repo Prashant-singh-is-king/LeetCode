@@ -5,5 +5,6 @@ class Solution {
             arr[i] = nums[nums[i]];
         }
         return arr;
+
     }
 }
